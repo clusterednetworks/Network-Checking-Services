@@ -30,7 +30,6 @@ A collection of Public Services and Websites to Check Your Network
 | https://tenon.io/ | Test sites for accessibility issues and offer solutions for problems found. | Free and paid plans |
 | https://www.toptal.com/designers/colorfilter | Checks pages for color accessibility. | Free |
 | https://wave.webaim.org/ | Gives a detailed report about markup and accessibility concerns including ARIA roles. Provides solutions for problems found. | Free |
-|
 
 ## Browser Testing 🌎
 
@@ -41,7 +40,7 @@ A collection of Public Services and Websites to Check Your Network
 | https://www.headspin.io/ | Test your website on thousands of real browsers, mobile device operating systems. | Free trial and paid plans |
 | https://www.lambdatest.com/ | Test your website in real browsers on multiple devices. | Free and paid plans |
 | https://saucelabs.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
-| https://testingbot.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid |
+| https://testingbot.com | Test apps and websites in many browsers. Can be integrated in CI workflows. | Free trial, free for open source projects, paid 
 
 ## Domain Checking
 
