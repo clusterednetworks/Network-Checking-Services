@@ -5,7 +5,7 @@ A collection of Public Services and Websites to Check Your Network
 
 * [Accessibility](#accessibility-️) ♿️
 * [Browser Testing](#browser-testing-) 🌎
-* [Domain Checking](#domain-checking-)
+* [Domain Checking](#domain-checking-) 🌎
 * [Cron Jobs](#cron-jobs-)⚡
 * [DNS](#dns-) 🌐
 * [Load Testing](#load-testing-) 🔥
