@@ -30,6 +30,7 @@ A collection of Public Services and Websites to Check Your Network
 | https://tenon.io/ | Test sites for accessibility issues and offer solutions for problems found. | Free and paid plans |
 | https://www.toptal.com/designers/colorfilter | Checks pages for color accessibility. | Free |
 | https://wave.webaim.org/ | Gives a detailed report about markup and accessibility concerns including ARIA roles. Provides solutions for problems found. | Free |
+|
 
 ## Browser Testing 🌎
 
@@ -47,7 +48,7 @@ A collection of Public Services and Websites to Check Your Network
 | URL | Description | |
 | --- | ----------- | -- |
 | https://domain.glass/clusterednetworks.com | Check a Domain for Information | Free |
-
+|
 
 ## Cron Jobs ⚡
 
