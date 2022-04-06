@@ -44,8 +44,8 @@ A collection of Public Services and Websites to Check Your Network
 
 ## Domain Checking
 
-| URL | Description |
-
+| URL | Description | |
+| --- | ----------- | -- |
 | https://domain.glass/clusterednetworks.com | Check a Domain for Information | Free |
 
 
